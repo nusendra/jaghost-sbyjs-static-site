@@ -1,4 +1,4 @@
-# Nusendra's blog using Svelte - Sapper
+# blog using Svelte - Sapper
 
 ## How to Start
 
